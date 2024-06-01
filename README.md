@@ -1,6 +1,16 @@
-**Read in other languages: [rosyjski](README.md), [polski](README.pl.md).**
+# goit-react-hw-01-components
+ 
 
+Link do repozytorium:
+https://github.com/KonradKinok/goit-react-hw-01-components
+
+Link do strony:
+https://konradkinok.github.io/goit-react-hw-01-components/
 # React homework template
+
+
+
+
 
 Ten projekt został stworzony przy pomocy
 [Create React App](https://github.com/facebook/create-react-app). W celu
