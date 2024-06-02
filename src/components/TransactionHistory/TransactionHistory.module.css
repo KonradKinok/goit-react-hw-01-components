@@ -1,0 +1,24 @@
+.transaction-history {
+    border-collapse: collapse;
+    width: 70%;
+    text-align: center;
+    margin-bottom: 140px;
+}
+.transaction-history th{
+    text-transform: uppercase;
+    color:rgb(255, 255, 255);
+    background-color: rgb(37, 219, 219);
+}
+.transaction-history th,
+.transaction-history td {
+    padding: 8px;
+    border: 1px solid #212121;
+}
+
+.transaction-history td::first-letter {
+    text-transform: uppercase;
+}
+
+.transaction-history tr:nth-child(even) {
+    background-color: rgb(235, 227, 214);
+}
